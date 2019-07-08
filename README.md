@@ -1,2 +1,0 @@
-# FONDUE
-GitHub Pages
